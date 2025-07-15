@@ -9,39 +9,39 @@
     "hardSkills": [
       {
         "name": "Javascript",
-        "logo": "./imgs/javascript.png"
+        "logo": "https://github.com/luizgdsmdev/portifolio/blob/main/data/imgs/javascript.png"
       },
       {
         "name": "Nodejs",
-        "logo": "./imgs/nodejs.png"
+        "logo": "https://github.com/luizgdsmdev/portifolio/blob/main/data/imgs/nodejs.png"
       },
       {
         "name": "Python",
-        "logo": "./imgs/python.png"
+        "logo": "https://github.com/luizgdsmdev/portifolio/blob/main/data/imgs/python.png"
       },
       {
         "name": "React",
-        "logo": "./imgs/react.png"
+        "logo": "https://github.com/luizgdsmdev/portifolio/blob/main/data/imgs/react.png"
       },
       {
         "name": "Git",
-        "logo": "./imgs/git.png"
+        "logo": "https://github.com/luizgdsmdev/portifolio/blob/main/data/imgs/git.png"
       },
       {
         "name": "Docker",
-        "logo": "./imgs/docker.png"
+        "logo": "https://github.com/luizgdsmdev/portifolio/blob/main/data/imgs/docker.png"
       },
       {
         "name": "Mongodb",
-        "logo": "./imgs/mongodb.png"
+        "logo": "https://github.com/luizgdsmdev/portifolio/blob/main/data/imgs/mongodb.png"
       },
       {
         "name": "Postgresql",
-        "logo": "./imgs/postgresql.png"
+        "logo": "https://github.com/luizgdsmdev/portifolio/blob/main/data/imgs/postgresql.png"
       },
             {
         "name": "Java",
-        "logo": "./imgs/java.png"
+        "logo": "https://github.com/luizgdsmdev/portifolio/blob/main/data/imgs/java.png"
       }
     ],
     "softSkills": [
@@ -59,16 +59,16 @@
   ],
   "portfolio": [
     {
-      "name": "",
-      "url": "",
+      "name": "More than just a Pokedex",
+      "url": "https://github.com/luizgdsmdev/more-than-just-a-pokedex",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "",
-      "period": "",
-      "description": ""
+      "name": "PROD DIGITAL AGENCY LTDA - Software Developer",
+      "period": "10/2021 - 01/2025",
+      "description": "As a Software Developer and Email Marketing Analyst, I helped to develop, manage, and execute marketing strategies for clients, earning two promotions and actively participating in meetings to present results and align strategies with stakeholders. In software development, I collaborated closely with systems analysts and programmers to resolve issues, enhance capabilities, and apply security measures, ensuring robust, high-performing systems using established design patterns. I analyzed user needs, reviewed project requirements, and coordinated testing throughout the development lifecycle while modifying software to fix errors and improve interfaces. I recommended strategies to optimize equipment performance and team workflow, provided technical support, and contributed to successful project completion."
     }
   ]
 }
