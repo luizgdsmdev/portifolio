@@ -1,0 +1,74 @@
+{
+  "name": "Luiz Messias",
+  "photo": "https://avatars.githubusercontent.com/u/200773624?s=400&u=84dae14d67a9124c0c0bdb4b0e3c0dd60e862f4c&v=4",
+  "job": "Software Developer",
+  "location": "Minas Gerais, Brazil",
+  "phone": "(35) 99111-6124",
+  "email": "luizgdsmdev@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Javascript",
+        "logo": "./imgs/javascript.png"
+      },
+      {
+        "name": "Nodejs",
+        "logo": "./imgs/nodejs.png"
+      },
+      {
+        "name": "Python",
+        "logo": "./imgs/python.png"
+      },
+      {
+        "name": "React",
+        "logo": "./imgs/react.png"
+      },
+      {
+        "name": "Git",
+        "logo": "./imgs/git.png"
+      },
+      {
+        "name": "Docker",
+        "logo": "./imgs/docker.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "./imgs/mongodb.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "./imgs/postgresql.png"
+      },
+            {
+        "name": "Java",
+        "logo": "./imgs/java.png"
+      }
+    ],
+    "softSkills": [
+      "Empathy",
+      "Leadership",
+      "Communication",
+      "Teamwork",
+      "Flexibility",
+      "Organization"
+    ]
+  },
+  "languages": [
+    "Português-BR (Fluent)",
+    "Inglês (Advanced - C2)"
+  ],
+  "portfolio": [
+    {
+      "name": "",
+      "url": "",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "",
+      "period": "",
+      "description": ""
+    }
+  ]
+}
