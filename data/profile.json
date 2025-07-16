@@ -20,6 +20,10 @@
         "logo": "./data/imgs/python.png"
       },
       {
+        "name": "Php",
+        "logo": "./data/imgs/php.png"
+      },
+      {
         "name": "React",
         "logo": "./data/imgs/react.png"
       },
