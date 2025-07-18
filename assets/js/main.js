@@ -42,8 +42,9 @@ function updatePortfolio(profileData) {
     portfolio.innerHTML = profileData.portfolio.map(project => {
         return `
             <li>
-                <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
-                <a href="${project.url}" target="_blank">${project.url}</a>
+                <a href="${project.liveUrl}" target="_blank" title="Click to view the live site here!"><h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3></a>
+                <a href="${project.url}" target="_blank" title="Visit the project on Github">${project.url}</a>
+                <p style="line-height:1.5rem;margin-top: 0.4rem;word-break: break-word;">${project.description}</p>
             </li>
         `
     }).join('')
