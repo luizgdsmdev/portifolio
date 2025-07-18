@@ -49,12 +49,12 @@
       }
     ],
     "softSkills": [
-      "Empathy",
-      "Leadership",
-      "Communication",
-      "Teamwork",
-      "Flexibility",
-      "Organization"
+      "Effective Communication",
+      "Problem Solving",
+      "Project Coordination",
+      "Training New Staff",
+      "Process Optimization",
+      "Customer Service"
     ]
   },
   "languages": [
@@ -65,7 +65,16 @@
     {
       "name": "More than just a Pokedex",
       "url": "https://raw.githubusercontent.com/luizgdsmdev/more-than-just-a-pokedex",
-      "github": true
+      "github": true,
+      "liveUrl": "https://luizgdsmdev.github.io/more-than-just-a-pokedex/",
+      "description": "This project was created for practices using JavaScript/HTML/CSS, such as: API consumption, DOM manipulation, Conditional styling, Data control and processing/consumption, Project structuring, Code optimization, Among others. The project will cover an interactive interface for: Pokémon listings and their information, Item comparison tools, Pokémon battles, Pokémon hunting, Pokémon evolution, Trainer evolution, Among others. The project will be updated in phases, with each phase implementing one or more features, as well as revisions/corrections if necessary."
+    },
+    {
+      "name": "Challenge 1: css developer",
+      "url": "https://github.com/luizgdsmdev/challenge-1-css-developer",
+      "github": true,
+      "liveUrl": "https://luizgdsmdev.github.io/challenge-1-css-developer/",
+      "description": "This material is based on the Figma CSS Web Developer course, developed as one of the challenges presented. There's creative freedom, with content modifications, so the material will serve only as a baseline."
     }
   ],
   "professionalExperience": [
@@ -73,6 +82,36 @@
       "name": "PROD DIGITAL AGENCY LTDA - Software Developer",
       "period": "10/2021 - 01/2025",
       "description": "As a Software Developer and Email Marketing Analyst, I helped to develop, manage, and execute marketing strategies for clients, earning two promotions and actively participating in meetings to present results and align strategies with stakeholders. In software development, I collaborated closely with systems analysts and programmers to resolve issues, enhance capabilities, and apply security measures, ensuring robust, high-performing systems using established design patterns. I analyzed user needs, reviewed project requirements, and coordinated testing throughout the development lifecycle while modifying software to fix errors and improve interfaces. I recommended strategies to optimize equipment performance and team workflow, provided technical support, and contributed to successful project completion."
+    },
+    {
+      "name": "NATANAEL ANALIO CIA LTDA (knn English school) - English Teacher",
+      "period": "07/2022 - 10/2022",
+      "description": "As an English teacher, I delivered lessons to students aged 8 to 45 over a period of more than four months. I designed tailored lesson plans for individual students, provided content correction and educational guidance, and developed supplementary materials to reinforce language skills. I offered personalized coaching to improve writing, pronunciation, listening, and speaking in English. Additionally, I contributed to creating engaging content and extracurricular activities to enhance student interaction and learning."
+    },
+    {
+      "name": "Napoleão Brewery and Restaurant - Restaurant Service Manager",
+      "period": "07/2018 - 01/2021",
+      "description": "As Restaurant Service Manager at Napoleão Brewery and Restaurant, I was promoted from waiter and kitchen assistant due to my strong performance. I managed customer service, dining area cleaning and organization, and improved processes for food preparation, service, and bar cash handling. Additionally, I oversaw cash management, including receiving and paying for goods, organized inventory, and trained new team members."
+    },
+    {
+      "name": "Seis e Meia restaurant - Restaurant Staff Member",
+      "period": "05/2016 - 06/2018",
+      "description": "As a Multi-Role Restaurant Staff member, I excelled as a waiter and kitchen assistant, earning a promotion to pizza maker due to strong performance. In this role, I managed pizza and condiment production and trained new employees. As a waiter, I handled dining area organization, customer service, order and payment processing, and inventory maintenance. As a kitchen assistant, I ensured kitchen cleanliness, organized and stored condiments, and assisted with partial or full dish preparation"
+    },
+    {
+      "name": "PKC Group - Administrative Assistant",
+      "period": "03/2014 - 04/2015",
+      "description": "As an Administrative Assistant apprentice at PKC Group, I worked in Customer Service, issuing invoices using MICROSIGA TOTVS, assisting with inventory control, preparing documents for goods dispatch with the WISE program, entering internal notes, verifying data, and managing spreadsheet data and physical parts inventory. Due to strong performance, I was hired full-time after 11 months, with the role concluding when the company ceased operations in the state."
+    },
+    {
+      "name": "MAHLE Group - Administrative Assistant (Formare Internship)",
+      "period": "03/2013 - 12/2013",
+      "description": "As an apprentice at MAHLE in Itajubá, Brazil, from March to December 2013, I worked as an administrative assistant in the Formare internship program. In the Bushings and Washers Administrative Sector, I handled internal note entries, data verification, and spreadsheet data entry using SAP, while assisting with inventory control and physical parts management. In the Medical Clinic Reception, I managed employee reception, provided customer service, performed data entry and verification using SAP, and organized file management."
+    }
+  ],
+  "personalSummary": [
+    {
+      "description": "As a versatile professional with advanced English proficiency, I bring problem-solving and adaptability from diverse roles in software development, marketing, and fieldwork. As a Software Developer and Email Marketing Analyst, I earned two promotions by enhancing systems, coordinating testing, and executing marketing strategies. As an English teacher, I created tailored lesson plans to boost student engagement. My skills and quick learning ensure high-quality contributions."
     }
   ]
 }
