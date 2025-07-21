@@ -63,11 +63,18 @@
   ],
   "portfolio": [
     {
-      "name": "Challenge 1: css developer",
+      "name": "Challenge 2: Youtube clone.",
+      "url": "https://github.com/luizgdsmdev/challenge-2-Youtube-css-javascript",
+      "github": true,
+      "liveUrl": "https://luizgdsmdev.github.io/challenge-2-Youtube-css-javascript/",
+      "description": "This project is a web page developed from scratch as part of the CSS Developer course challenge by Dio. Built using HTML, CSS, and JavaScript, it replicates the layout and design of YouTube. The project features animations, visual effects, and interactive elements implemented with JavaScript, creating a dynamic and engaging user experience. live link: https://luizgdsmdev.github.io/challenge-2-Youtube-css-javascript/"
+    },
+    {
+      "name": "Challenge 1: Web page Dio",
       "url": "https://github.com/luizgdsmdev/challenge-1-css-developer",
       "github": true,
       "liveUrl": "https://luizgdsmdev.github.io/challenge-1-css-developer/",
-      "description": "This material is based on the Figma CSS Web Developer course, developed as one of the challenges presented. There's creative freedom, with content modifications, so the material will serve only as a baseline."
+      "description": "This material is based on the Figma CSS Web Developer course, developed as one of the challenges presented. There's creative freedom, with content modifications, so the material will serve only as a baseline. live link: https://luizgdsmdev.github.io/challenge-1-css-developer/"
     },
     {
       "name": "More than just a Pokedex (Partial development)",
@@ -113,5 +120,5 @@
     {
       "description": "As a versatile professional with advanced English proficiency, I bring problem-solving and adaptability from diverse roles in software development, marketing, and fieldwork. As a Software Developer and Email Marketing Analyst, I earned two promotions by enhancing systems, coordinating testing, and executing marketing strategies. As an English teacher, I created tailored lesson plans to boost student engagement. My skills and quick learning ensure high-quality contributions."
     }
-]
+  ]
 }
