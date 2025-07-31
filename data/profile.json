@@ -63,32 +63,60 @@
   ],
   "portfolio": [
     {
-      "name": "Challenge 2: Youtube clone.",
+      "name": "Challenge 5: HBO Website",
+      "url": "https://github.com/luizgdsmdev/challenge-5-HBO-css-javascript",
+      "github": true,
+      "liveUrl": "https://luizgdsmdev.github.io/challenge-5-HBO-css-javascript/",
+      "description": "A web-based project replicating a component of the HBO website, built with JavaScript, HTML, and CSS. This challenge focuses on creating a responsive and interactive webpage that mirrors the design and functionality of the HBO platform. live link: https://luizgdsmdev.github.io/challenge-5-HBO-css-javascript/"
+    },
+    {
+      "name": "Challenge 2: Youtube clone",
       "url": "https://github.com/luizgdsmdev/challenge-2-Youtube-css-javascript",
       "github": true,
       "liveUrl": "https://luizgdsmdev.github.io/challenge-2-Youtube-css-javascript/",
-      "description": "This project is a web page developed from scratch as part of the CSS Developer course challenge by Dio. Built using HTML, CSS, and JavaScript, it replicates the layout and design of YouTube. The project features animations, visual effects, and interactive elements implemented with JavaScript, creating a dynamic and engaging user experience. live link: https://luizgdsmdev.github.io/challenge-2-Youtube-css-javascript/"
+      "description": "This repository contains the solution for a coding challenge (Challenge #2) aimed at building a YouTube-like interface. The project demonstrates front-end development skills by using HTML for structure, CSS for modern styling, and JavaScript for dynamic interactivity. The codebase is lightweight, designed to run directly in the browser, and emphasizes a clean, user-friendly design inspired by YouTube's aesthetic. live link: https://luizgdsmdev.github.io/challenge-2-Youtube-css-javascript/"
+    },
+    {
+      "name": "Wreck-It-Ralph Game",
+      "url": "https://github.com/luizgdsmdev/Wreck-It-Ralph-game-javascript-css-html",
+      "github": true,
+      "liveUrl": "https://luizgdsmdev.github.io/Wreck-It-Ralph-game-javascript-css-html/",
+      "description": "This project is a simple yet engaging web game that recreates the arcade spirit of Wreck-It Ralph. The codebase is structured to be lightweight and accessible, leveraging core web technologies to deliver a smooth gaming experience directly in the browser. The game features a single HTML file for structure, CSS for styling and animations, and JavaScript for game logic, including player movement, collision detection, and score tracking. live link: https://luizgdsmdev.github.io/Wreck-It-Ralph-game-javascript-css-html/"
+    },
+    {
+      "name": "Finans Website",
+      "url": "https://github.com/luizgdsmdev/project-finans",
+      "github": true,
+      "liveUrl": "https://luizgdsmdev.github.io/project-finans/",
+      "description": "A web-based project replicating a fictional financial management website, built with HTML, CSS, and JavaScript. This project focuses on creating a professional and responsive interface for managing personal finances, featuring interactive elements and a clean design inspired by modern financial platforms. Live link: https://luizgdsmdev.github.io/project-finans/"
+    },
+    {
+      "name": "Challenge 4: Responsive Layout Challenge with Bootstrap",
+      "url": "https://github.com/luizgdsmdev/challenge-4-responsive-layout-bootstrap-javascript",
+      "github": true,
+      "liveUrl": "https://luizgdsmdev.github.io/challenge-4-responsive-layout-bootstrap-javascript/",
+      "description": "This repository contains the solution for the fourth challenge of the CSS Developer course offered by DIO. The project aims to recreate a cofee shop-inspired webpage layout, emphasizing responsive design using Bootstrap's grid system and components, enhanced with custom CSS and JavaScript for interactivity. The codebase is lightweight, runs directly in the browser, and showcases advanced front-end techniques for building a professional streaming platform interface. The project remains under constant development. Last updated: July 30, 2025. Live link: https://luizgdsmdev.github.io/challenge-4-responsive-layout-bootstrap-javascript/"
     },
     {
       "name": "Challenge 3: responsive layout for Discord",
       "url": "https://github.com/luizgdsmdev/challenge-3-responsive-layout-for-Discord-CSS-javascript",
       "github": true,
       "liveUrl": "https://luizgdsmdev.github.io/challenge-3-responsive-layout-for-Discord-CSS-javascript/",
-      "description": "This project, 'challenge-3-responsive-layout-for-Discord-CSS-javascript,' focuses on recreating a responsive layout inspired by Discord. It showcases the implementation of modern CSS techniques for adaptive design, ensuring a seamless user experience across various screen sizes. Additionally, JavaScript is utilized to add interactive effects and dynamic content, bringing the UI to life. Reference: https://www.figma.com/design/NRBYrG5d4DSzObv7dpTqoM/Desafio-Responsividade---DIO?node-id=1-2&t=olmoxGiZDh4uKyCp-0. Key Features: Responsive Design: Adapts fluidly to desktop, tablet, and mobile breakpoints. - CSS Effects: Incorporates visual enhancements and animations for a polished look. - Dynamic Content: Leverages JavaScript to manage and display new content, enhancing interactivity."
+      "description": "This project contains the solution for the third challenge of the CSS Developer course offered by DIO. The project aims to recreate a Discord-inspired webpage layout, emphasizing responsive design and interactivity. It uses HTML for structure, CSS for styling with Flexbox or Grid, and JavaScript for dynamic features like toggling menus or modals. The codebase is lightweight, runs directly in the browser, and showcases advanced CSS techniques alongside basic JavaScript interactivity."
     },
     {
       "name": "Challenge 1: Web page Dio",
       "url": "https://github.com/luizgdsmdev/challenge-1-css-developer",
       "github": true,
       "liveUrl": "https://luizgdsmdev.github.io/challenge-1-css-developer/",
-      "description": "This material is based on the Figma CSS Web Developer course, developed as one of the challenges presented. There's creative freedom, with content modifications, so the material will serve only as a baseline. live link: https://luizgdsmdev.github.io/challenge-1-css-developer/"
+      "description": "A web-based project designed to replicate a modern webpage layout, built with HTML and CSS. This challenge, part of a CSS Developer course from DIO, focuses on creating a visually appealing and responsive interface from scratch, based on a provided YouTube layout, emphasizing CSS styling techniques. live link: https://luizgdsmdev.github.io/challenge-1-css-developer/"
     },
     {
       "name": "More than just a Pokedex (Partial development)",
       "url": "https://raw.githubusercontent.com/luizgdsmdev/more-than-just-a-pokedex",
       "github": true,
       "liveUrl": "https://luizgdsmdev.github.io/more-than-just-a-pokedex/",
-      "description": "This project was created for practices using JavaScript/HTML/CSS, such as: API consumption, DOM manipulation, Conditional styling, Data control and processing/consumption, Project structuring, Code optimization, Among others. The project will cover an interactive interface for: Pokémon listings and their information, Item comparison tools, Pokémon battles, Pokémon hunting, Pokémon evolution, Trainer evolution, Among others. The project will be updated in phases, with each phase implementing one or more features, as well as revisions/corrections if necessary."
+      "description": "A dynamic web-based Pokédex application built with HTML, CSS, and JavaScript, designed to provide an interactive Pokémon experience. This project, created for practice, focuses on advanced front-end techniques, including API consumption, DOM manipulation, and data processing, while offering features like Pokémon listings, battles, and evolution tracking. The project will be updated in phases, with each phase implementing one or more features, as well as revisions/corrections if necessary."
     }
   ],
   "professionalExperience": [
